@@ -1,9 +1,9 @@
 
-<h2>CUENTA ADMINISTRADOR<h2/>
-  Existe un usuario admin:
-    username = admin
-    password = 123
+<h2>CUENTA ADMINISTRADOR</h2>
+  <p>Existe un usuario admin:</p>
+    <em>username = admin</em>
+    <em>password = 123</em>
 
-  Para cambiar el rol de un usuario, debe tener cargada la documentación correspondiente.
-  El admin no tiene carrito.
+  <p>Para cambiar el rol de un usuario, debe tener cargada la documentación correspondiente.</p>
+  <p>El admin no tiene carrito.</p>
   
