@@ -1,5 +1,5 @@
 
-CUENTA ADMINISTRADOR
+<h2>CUENTA ADMINISTRADOR<h2/>
   Existe un usuario admin:
     username = admin
     password = 123
